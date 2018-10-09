@@ -3,7 +3,8 @@ for example only
 
 Quickstart :
 
-- Download and install java 1.8 or 10
+- Download and install Java 1.8 or 10 
+- Download and install Maven
 - Download Solr v6 or earlier (http://archive.apache.org/dist/lucene/solr/6.2.0/solr-6.2.0.tgz)
 - Extract
 - Run SolrCloud example : cd $SolrHome && bin/solr start -e cloud -noprompt (default 2 Nodes port 8983,7574)
